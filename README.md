@@ -22,29 +22,20 @@
 
 # Repository Structure
 
-The `#deepMTJ` repository contains:
+The `MotorEndplate` repository contains:
 
-### 1. ANNOTATE your video data
-`mtj_tracking/label` folder contains the video annotation tool: start `main.py`
+### 1. Code
+`mtj_tracking/label` folder contains the video annotation tool: start `main.py` 
 
-### 2. TRAIN your own network with our backbones
-`mtj_tracking/train` folder contains the network training and evaluation: start `train.py` for `VGG-Attention-3` model and `train_resnet.py` for the `ResNet50` model.
-
-### 3. PREDICT muscle tendon junctions in your own video data with our trained networks
-The `mtj_tracking/predict` folder contains an easy to use prediction script (minimal Python knowledge needed to get it running). G to `main.py`, add your data paths and start your predictions...
-
-This script reads your provided AVI-Video Files and returns the annotated frames (downscaled AVI-videos) as well as the X,Y-coordinates of the muscle tendon junction (csv-File). 
-
-#### Video Dataset
+### 2. Dataset
 The high frame rate ultrasound recording (540 MB) can be downloaded from: [google drive](https://drive.google.com). The provided dataset (`IUSContraction.avi`) is licensed under a [Creative Commons Attribution 4.0 International License](https://github.com/luuleitner/MotorEndplate/blob/master/LICENSE_Datasets).
 
 [![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
-### Add-On's
+### 3. Add-On's
 - `examples` folder with all result plots and figures of the IEEE-IUS 2020 publication in high resolution.
 
 # Getting Started
-
 
 # License
 
