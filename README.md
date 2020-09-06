@@ -13,7 +13,7 @@ The `MotorEndplate` repository contains:
 ### 1. Code
 
 ### 2. Dataset
-The high frame rate ultrasound recording (540 MB) can be downloaded from: [google drive](https://drive.google.com). The provided dataset (`IUSContraction.avi`) is licensed under a [Creative Commons Attribution 4.0 International License](https://github.com/luuleitner/MotorEndplate/blob/master/LICENSE_Datasets).
+The high frame rate ultrasound recording (540 MB) can be downloaded from: [google drive](https://drive.google.com). The provided dataset (`IUSContraction.avi`) is licensed under a [Creative Commons Attribution 4.0 International License](https://github.com/luuleitner/MotorEndplate/blob/master/LICENSE_dataset).
 
 [![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
@@ -37,5 +37,5 @@ The high frame rate ultrasound recording (540 MB) can be downloaded from: [googl
 
 # License
 
-This program is free software and licensed under the Apache License 2.0 - see the [LICENSE](https://github.com/luuleitner/MotorEndplate/blob/master/LICENSE) file for details.
+This program is free software and licensed under the Apache License 2.0 - see the [LICENSE](https://github.com/luuleitner/MotorEndplate/blob/master/LICENSE_code) file for details.
 
