@@ -1,4 +1,4 @@
-# Motor endplate detection using ultrafast ultrasound imaging
+# Detection of motor endplates using ultrafast ultrasound
 [![GitHub stars](https://img.shields.io/github/stars/luuleitner/MotorEndplate?label=Stars&style=social)](https://github.com/luuleitner/MotorEndplate)
 [![GitHub forks](https://img.shields.io/github/forks/luuleitner/MotorEndplate?label=Fork&style=social)](https://github.com/luuleitner/MotorEndplate)
 <br>
