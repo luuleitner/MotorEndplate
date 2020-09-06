@@ -1,2 +1,2 @@
 # CASius20
-motor endplate detection using ultrafast ultrasonud imaging
+motor endplate detection using ultrafast ultrasound imaging
