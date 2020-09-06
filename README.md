@@ -6,6 +6,10 @@
 [![GitHub contributors](https://img.shields.io/badge/Contributions-Welcome-brightgreen)](https://github.com/luuleitner/MotorEndplate)
 [![Twitter Follow](https://img.shields.io/twitter/follow/luuleitner?label=Follow&style=social)](https://twitter.com/luuleitner)
 
+<p align="center">
+<img src="https://github.com/luuleitner/deepMTJ/blob/master/examples/MEPidentification.jpg" height="220">
+</p>
+
 # Repository Structure
 
 The `MotorEndplate` repository contains:
