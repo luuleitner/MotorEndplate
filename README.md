@@ -22,7 +22,7 @@ The high frame rate ultrasound recording (540 MB) can be downloaded from: [googl
 
 # Credits
 
-"do, ut des"...if we could assist you with this code please cite our work:***
+"do, ut des"...if we could assist you with this code and dataset please cite our work:
 ```
 @inproceedings{Leitner2020,
    title={{Detection of Motor Endplates in Deep and Pennate Skeletal Muscles in-vivo using Ultrafast Ultrasound},
