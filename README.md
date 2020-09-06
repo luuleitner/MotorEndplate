@@ -48,5 +48,5 @@ The high frame rate ultrasound recording (540 MB) can be downloaded from: [googl
 
 # License
 
-This program is free software and licensed under the GNU General Public License v3.0 - see the [LICENSE](https://github.com/luuleitner/deepMTJ/blob/master/LICENSE) file for details.
+This program is free software and licensed under the Apache License 2.0 - see the [LICENSE](https://github.com/luuleitner/MotorEndplate/blob/master/LICENSE) file for details.
 
