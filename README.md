@@ -2,23 +2,9 @@
 [![GitHub stars](https://img.shields.io/github/stars/luuleitner/MotorEndplate?label=Stars&style=social)](https://github.com/luuleitner/MotorEndplate)
 [![GitHub forks](https://img.shields.io/github/forks/luuleitner/MotorEndplate?label=Fork&style=social)](https://github.com/luuleitner/MotorEndplate)
 <br>
-[![License: Apatche-2](https://img.shields.io/hexpm/l/plug)](https://www.gnu.org/licenses)
+[![License: Apatche-2](https://img.shields.io/hexpm/l/plug)](https://www.apache.org/licenses/LICENSE-2.0)
 [![GitHub contributors](https://img.shields.io/badge/Contributions-Welcome-brightgreen)](https://github.com/luuleitner/MotorEndplate)
 [![Twitter Follow](https://img.shields.io/twitter/follow/luuleitner?label=Follow&style=social)](https://twitter.com/luuleitner)
-
-
-***"do, ut des"...if we could assist you with this code please cite our work:***
-```
-@inproceedings{Leitner2020,
-   title={{Detection of Motor Endplates in Deep and Pennate Skeletal Muscles in-vivo using Ultrafast Ultrasound},
-   author={Christoph Leitner and Sergei Vostrikov and Harald Penasso and Pascal A. Hager and Andrea Cossettini and Luca Benini and Christian Baumgartner},
-   booktitle={in Proc. of the IEEE International Ultrasonic Symposium},
-   venue={Las Vegas,USA},
-   publisher={IEEE},
-   month=09,
-   year={2020}  
-}
-```
 
 # Repository Structure
 
@@ -34,7 +20,18 @@ The high frame rate ultrasound recording (540 MB) can be downloaded from: [googl
 ### 3. Add-On's
 - `examples` folder with all result plots and figures of the IEEE-IUS 2020 publication in high resolution.
 
-# Getting Started
+***"do, ut des"...if we could assist you with this code please cite our work:***
+```
+@inproceedings{Leitner2020,
+   title={{Detection of Motor Endplates in Deep and Pennate Skeletal Muscles in-vivo using Ultrafast Ultrasound},
+   author={Christoph Leitner and Sergei Vostrikov and Harald Penasso and Pascal A. Hager and Andrea Cossettini and Luca Benini and Christian Baumgartner},
+   booktitle={in Proc. of the IEEE International Ultrasonic Symposium},
+   venue={Las Vegas,USA},
+   publisher={IEEE},
+   month=09,
+   year={2020}  
+}
+```
 
 # License
 
