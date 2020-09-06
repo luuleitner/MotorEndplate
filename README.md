@@ -2,7 +2,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/luuleitner/MotorEndplate?label=Stars&style=social)](https://github.com/luuleitner/MotorEndplate)
 [![GitHub forks](https://img.shields.io/github/forks/luuleitner/MotorEndplate?label=Fork&style=social)](https://github.com/luuleitner/MotorEndplate)
 <br>
-[![License: GPLv3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses)
+[![License: Apatche-2](https://img.shields.io/hexpm/l/plug)](https://www.gnu.org/licenses)
 [![GitHub contributors](https://img.shields.io/badge/Contributions-Welcome-brightgreen)](https://github.com/luuleitner/MotorEndplate)
 [![Twitter Follow](https://img.shields.io/twitter/follow/luuleitner?label=Follow&style=social)](https://twitter.com/luuleitner)
 
