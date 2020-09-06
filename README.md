@@ -1,6 +1,6 @@
 # Motor endplate detection using ultrafast ultrasound imaging
-[![GitHub stars](https://img.shields.io/github/stars/luuleitner/deepMTJ?label=Stars&style=social)](https://github.com/luuleitner/MotorEndplate)
-[![GitHub forks](https://img.shields.io/github/forks/luuleitner/deepMTJ?label=Fork&style=social)](https://github.com/luuleitner/MotorEndplate)
+[![GitHub stars](https://img.shields.io/github/stars/luuleitner/MotorEndplate?label=Stars&style=social)](https://github.com/luuleitner/MotorEndplate)
+[![GitHub forks](https://img.shields.io/github/forks/luuleitner/MotorEndplate?label=Fork&style=social)](https://github.com/luuleitner/MotorEndplate)
 <br>
 [![License: GPLv3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses)
 [![GitHub contributors](https://img.shields.io/badge/Contributions-Welcome-brightgreen)](https://github.com/luuleitner/MotorEndplate)
@@ -25,7 +25,6 @@
 The `MotorEndplate` repository contains:
 
 ### 1. Code
-`mtj_tracking/label` folder contains the video annotation tool: start `main.py` 
 
 ### 2. Dataset
 The high frame rate ultrasound recording (540 MB) can be downloaded from: [google drive](https://drive.google.com). The provided dataset (`IUSContraction.avi`) is licensed under a [Creative Commons Attribution 4.0 International License](https://github.com/luuleitner/MotorEndplate/blob/master/LICENSE_Datasets).
