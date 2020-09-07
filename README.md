@@ -1,4 +1,4 @@
-# Motor endplate detection using ultrafast ultrasound imaging
+# Detection of motor endplates using ultrafast ultrasound
 [![GitHub stars](https://img.shields.io/github/stars/luuleitner/MotorEndplate?label=Stars&style=social)](https://github.com/luuleitner/MotorEndplate)
 [![GitHub forks](https://img.shields.io/github/forks/luuleitner/MotorEndplate?label=Fork&style=social)](https://github.com/luuleitner/MotorEndplate)
 <br>
@@ -7,7 +7,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/luuleitner?label=Follow&style=social)](https://twitter.com/luuleitner)
 
 <p align="center">
-<img src="https://github.com/luuleitner/deepMTJ/blob/master/examples/MEPidentification.jpg" height="220">
+<img src="https://github.com/luuleitner/MotorEndplate/blob/master/examples/MEPidentification.jpg" height="220">
 </p>
 
 # Repository Structure
