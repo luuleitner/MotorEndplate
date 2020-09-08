@@ -7,7 +7,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/luuleitner?label=Follow&style=social)](https://twitter.com/luuleitner)
 
 <p align="center">
-<img src="https://github.com/luuleitner/MotorEndplate/blob/master/examples/MEPidentification.jpg" height="220">
+<img src="https://github.com/luuleitner/MotorEndplate/blob/master/figures/06bFig_MEP_identification_fascicle.jpg" height="220">
 </p>
 
 # Repository Structure
