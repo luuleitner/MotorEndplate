@@ -12,10 +12,13 @@
 
 # Repository Structure
 
-This repository provides code and datasets for ultrafast ultrasound investigations of an electrically stimulated medial gastrocnemius muscle.
+This repository provides code and datasets for ultrafast ultrasound investigations on an electrically stimulated medial gastrocnemius muscle.
 
 ### 1. Code
-Code is currently in submission and will be pushed soon. Please return shortly!
+- `MotorEndplate\functions` folder includes the used functions
+- `MotorEndplate\SPTtracker.m` is the Matlab script to execute sampling point tracking. This program will return SPT coordinates for each investigated timestep. 
+
+This code is currently beeing pushed. Some elements are still missing and will be uploaded shortly!
 
 ### 2. Dataset
 The high frame rate ultrasound recording (1500 Hz) of an electrically stimulated medial gastrocnemius contraction can be downloaded from: [google drive](https://drive.google.com/file/d/1UnxKz-48edv91yl6tduEGyUoVwtJ64Iq/view?usp=sharing) (679 MB). The provided dataset (`MGcontraction.avi`) is licensed under a [Creative Commons Attribution 4.0 International License](https://github.com/luuleitner/MotorEndplate/blob/master/LICENSE_dataset).
@@ -23,7 +26,7 @@ The high frame rate ultrasound recording (1500 Hz) of an electrically stimulated
 [![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 ### 3. Add-On's
-- `figures` folder with all result plots and figures of the IEEE-IUS 2020 publication in high resolution.
+- `MotorEndplate\figures` folder with all result plots and figures of the IEEE-IUS 2020 publication in high resolution.
 
 # Credits
 
