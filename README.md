@@ -12,7 +12,7 @@
 
 # Repository Structure
 
-The `MotorEndplate` repository contains:
+The `MotorEndplate` repository is currently in build-up. Please return shortly!
 
 ### 1. Code
 
