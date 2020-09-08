@@ -25,7 +25,7 @@ The high frame rate ultrasound recording (1500 Hz) of an electrically stimulated
 [![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 ### 3. Add-On's
-- `MotorEndplate\figures` folder with all result plots and figures of the IEEE-IUS 2020 publication in high resolution.
+- `MotorEndplate\figures` folder includes all result plots and figures of the IEEE-IUS 2020 publication in high resolution.
 
 # Credits
 
