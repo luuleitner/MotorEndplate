@@ -4,7 +4,6 @@
 <br>
 [![License: Apatche-2](https://img.shields.io/hexpm/l/plug)](https://www.apache.org/licenses/LICENSE-2.0)
 [![GitHub contributors](https://img.shields.io/badge/Contributions-Welcome-brightgreen)](https://github.com/luuleitner/MotorEndplate)
-[![Twitter Follow](https://img.shields.io/twitter/follow/luuleitner?label=Follow&style=social)](https://twitter.com/luuleitner)
 
 <p align="center">
 <img src="https://github.com/luuleitner/MotorEndplate/blob/master/figures/contraction.gif">
