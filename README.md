@@ -25,7 +25,7 @@ The high frame rate ultrasound recording (1500 Hz) of an electrically stimulated
 [![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 ### 3. Add-On's
-- We used `pybf` to reconstruct ultrasound images from radio frequency data. This python based delay-and-sum beamformer is available open-sorce: [pybf](https://github.com/Sergio5714/pybf)
+- We used `pybf` to reconstruct ultrasound images from radio frequency data. This python based delay-and-sum beamformer is available for open-sorce use here: [pybf](https://github.com/Sergio5714/pybf)
 - `MotorEndplate\figures` folder includes all result plots and figures of the IEEE-IUS 2020 publication in high resolution.
 
 # Credits
