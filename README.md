@@ -16,7 +16,6 @@ This repository provides code and datasets for ultrafast ultrasound investigatio
 ### 1. Code
 - `MotorEndplate\functions` folder includes the used functions
 - `MotorEndplate\SPTtracker.m` is the Matlab script to execute sampling point tracking. This program will return the sampling point coordinates along a chosen facile line for each investigated timestep.
-- `MotorEndplate\scripts\lowpassfilter.m` Butterworth lowpass filter
 - `MotorEndplate\MEP_extraction.ipynb` is Jupyter notebook for MEP extraction. The script inputs filtered x and y displacements (as .csv files) and outputs starting time of the contraction for each sampling point. To run the script, please, meet the requirements listed below.
 
 This code is currently beeing pushed. Some elements are still missing and will be uploaded shortly!
