@@ -14,7 +14,7 @@
 This repository provides code and datasets for ultrafast ultrasound investigations on an electrically stimulated medial gastrocnemius muscle.
 
 ### 1. Code
-- `MotorEndplate\functions` folder includes the used functions
+- `MotorEndplate\functions` folder includes the used functions (eg. Butterworth lowpass filter)
 - `MotorEndplate\SPTtracker.m` is the Matlab script to execute sampling point tracking. This program will return the sampling point coordinates along a chosen facile line for each investigated timestep.
 - `MotorEndplate\MEP_extraction.ipynb` is Jupyter notebook for MEP extraction. The script inputs filtered x and y displacements (as .csv files) and outputs starting time of the contraction for each sampling point. To run the script, please, meet the requirements listed below.
 
