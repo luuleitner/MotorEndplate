@@ -22,8 +22,8 @@ clc;
 
 %% USER INPUT
 % Pathes
-file = ('C:\Users\chule\Downloads\BFmovie_orig.avi');        % <<<< Enter path to beamformed *.avi file 
-Imfilepath = ('C:\Users\chule\Downloads\original-001.tif');  % <<<< Enter file path to the first image frame
+file = ('**//path to .avi');        % <<<< Enter path to beamformed *.avi file 
+Imfilepath = ('**//path to .tif');  % <<<< Enter file path to the first image frame
 
 % Method and GUI-controls
 max_Frames = 4500;  % <<<< Enter number of frames in the video
